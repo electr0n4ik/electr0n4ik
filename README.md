@@ -10,4 +10,4 @@ You can contact me through my email [andreyshka3@gmail.com](andreyshka3@gmail.co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electr0n4ik&layout=compact)](https://github.com/electr0n4ik/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/electr0n4ik/count.svg)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=electr0n4ik.repo-name)
