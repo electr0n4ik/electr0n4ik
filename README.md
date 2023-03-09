@@ -1,6 +1,6 @@
 ### Hello 👋
 
-## О себе
+## About Me
 
 My name is [Andrey](https://github.com/electr0n4ik) and I am a Python software developer. I am also interested in machine learning and artificial intelligence.
 
