@@ -51,7 +51,6 @@ I’m a Python Backend Developer.
 <img align="left" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="Telegram" width="30px" style="padding-right:10px;" src="https://devicons.railway.app/i/telegram.svg" />
 <img align="left" alt="Windows 10" width="30px" style="padding-right:10px;" src="https://devicons.railway.app/i/windows10.svg" />
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://devicons.railway.app/i/vim.svg" />
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://devicons.railway.app/i/ubuntu.svg" />
 
 <br />
