@@ -7,12 +7,12 @@
 ---
 
 ### About Me:
-I’m a Python Backend Developer.
+I’m a Python Developer.
 
-- I like coding.
-- I’m developing a backend for web applications.
+- I like programming;
+- No sweat, no sweet;
 - I’m constantly learning new things.
-- I’m currently learning **Python, Django**.
+- I’m currently learning **Python, Django**
 - <a href="https://wakatime.com/@1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4">
     <img src="https://wakatime.com/badge/user/1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4.svg" alt="wakatime">
   </a>
