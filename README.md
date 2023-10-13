@@ -16,10 +16,6 @@ I’m a Python Developer.
 - <a href="https://wakatime.com/@1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4">
     <img src="https://wakatime.com/badge/user/1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4.svg" alt="wakatime">
   </a>
-- ##### CodeWars:
-  <a href="https://www.codewars.com/users/electr0n4ik">
-    <img alt="codewars badge" src="https://www.codewars.com//users/electr0n4ik/badges/small">
-  </a>
 - ##### Visitor Count:
   <a href="https://profile-counter.glitch.me/electr0n4ik/count.svg">
     <img src="https://profile-counter.glitch.me/electr0n4ik/count.svg" alt="Visitor Count">
