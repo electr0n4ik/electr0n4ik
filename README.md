@@ -24,7 +24,7 @@ I’m a Python Developer.
 ---
 
 ### Contact with me:
-📫 How to reach me -&nbsp;[andreyshka3@gmail.com](andreyshka3@gmail.com)
+[andreyshka3@gmail.com](andreyshka3@gmail.com)
 
 ---
 
