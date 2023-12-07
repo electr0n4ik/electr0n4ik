@@ -12,9 +12,9 @@ I’m a Python Developer.
 - I like programming;
 - No sweat, no sweet;
 - I’m constantly learning new things.
-- <a href="https://wakatime.com/@1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4">
+<!--- - <a href="https://wakatime.com/@1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4">
     <img src="https://wakatime.com/badge/user/1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4.svg" alt="wakatime">
-  </a>
+  </a>-->
 - ##### Visitor Count:
   <a href="https://profile-counter.glitch.me/electr0n4ik/count.svg">
     <img src="https://profile-counter.glitch.me/electr0n4ik/count.svg" alt="Visitor Count">
