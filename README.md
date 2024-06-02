@@ -36,10 +36,12 @@ I’m a Python Developer with a passion for programming and continuous learning.
 ---
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=electr0n4ik&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
-  <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=electr0n4ik&theme=vision-friendly-dark&layout=compact" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td><img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=electr0n4ik&theme=vision-friendly-dark" alt="GitHub Streak Stats" /></td>
+    <td><img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=electr0n4ik&theme=vision-friendly-dark&layout=compact" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ---
   
