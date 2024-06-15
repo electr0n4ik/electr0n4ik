@@ -17,7 +17,7 @@ I’m a Python Developer with a passion for programming and continuous learning.
   </a>-->
 
   ### Skills
-- **Languages**: Python, C/C++, HTML, CSS
+- **Languages**: Python, C++, HTML, CSS
 - **Frameworks**: Django, DRF, Flask, Bootstrap
 - **Tools**: Git, Docker, Celery, Redis, Postman
 - **Databases**: PostgreSQL, MySQL, SQLite
