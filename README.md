@@ -1,31 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Daring&weight=500&size=28&duration=4000&pause=1000&color=5b92e5&center=true&vCenter=true&width=580&lines=Welcome+to+my+GitHub+profile.;" alt="Typing SVG">
-  </a>
-</p>
-
----
-
-### About Me:
-I’m a Python Developer with a passion for programming and continuous learning.
-
-- I enjoy tackling complex problems and finding efficient solutions.
-- Believer in the motto: "No sweat, no sweet."
-- Always eager to learn new technologies and improve my skills.
-<!--- - <a href="https://wakatime.com/@1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4">
-    <img src="https://wakatime.com/badge/user/1ac21f63-cdd6-4e52-b7ff-e8f5ac6a22d4.svg" alt="wakatime">
-  </a>-->
-
-  ### Skills
-- **Languages**: Python, C++, HTML, CSS
-- **Frameworks**: Django, DRF, Flask, Bootstrap
-- **Tools**: Git, Docker, Celery, Redis, Postman
-- **Databases**: PostgreSQL, MySQL, SQLite
-
-<!---### Featured Projects
-- **[Project Name](link-to-project)**: Brief description of what the project does and its significance.
-- **[Another Project](link-to-another-project)**: Brief description of this project and the technologies used.-->
-
 ### Contact Me
 <p align="left">
   <a href="https://t.me/id_egoyan" target="_blank"><img src="https://devicons.railway.app/i/telegram.svg" alt="Telegram" width="30px" /></a>
